@@ -917,6 +917,7 @@ El modelo muestra que para entender y predecir la rotación del personal es fund
 
 ### Sugerencia
 
+
 Para predecir si un empleado está en riesgo de renunciar, sugeriría un **modelo de clasificación**, como:
 
 - **Árboles de decisión** o **Random Forest**: capturan relaciones no lineales.
